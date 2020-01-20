@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: SpecialHomePage
 ---
@@ -134,3 +135,6 @@ Kubernetes教程的主要依据是：Kubernetes 官网文档，以及使用 Kubo
   * <a href="https://kuboard.cn/learning/k8s-practice/ocp/import.html">导入部署配置</a>
 
 Kuboard官网免费提供Kubernetes教程、K8S教程、K8S安装文档、Kubernetes+SpringCloud实战文档，学习过程中如有疑问，请加QQ群在线答疑。
+=======
+# kuboard-press
+>>>>>>> 6f7fbb944be1bba8773d104a591bc070f0fce03f
